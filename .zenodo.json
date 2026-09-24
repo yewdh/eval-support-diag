@@ -1,0 +1,10 @@
+{
+  "title": "eval-support-diag: Diagnostics for evaluation-support instability in spatial crop classification",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {"name": "YourLast, YourFirst", "affiliation": "Your Institution"}
+  ],
+  "keywords": ["spatial cross-validation", "class imbalance", "macro-F1",
+               "evaluation uncertainty", "crop classification"]
+}
